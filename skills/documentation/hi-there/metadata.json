@@ -1,0 +1,11 @@
+{
+  "name": "hi there",
+  "description": "wow",
+  "category": "Documentation",
+  "tags": [
+    "nope"
+  ],
+  "author": "Demo User",
+  "created": "2026-01-29T11:43:42.178Z",
+  "version": "1.0.0"
+}
