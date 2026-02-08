@@ -1,0 +1,10 @@
+{
+  "name": "raincode-proposal",
+  "description": "use this skill to generate raincode themed proposals for clients ",
+  "category": "Template",
+  "tags": [
+    "proposal"
+  ],
+  "created": "2026-02-08T09:44:44.405Z",
+  "version": "1.0.0"
+}
